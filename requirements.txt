@@ -1,0 +1,11 @@
+requirements.txt:
+nltk
+sumy
+
+## Description
+A Python-based NLP tool that summarizes long articles into concise summaries using Natural Language Processing techniques.
+
+## Technologies Used
+- Python
+- NLTK
+- Sumy (LSA Summarizer)
