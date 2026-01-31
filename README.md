@@ -16,4 +16,4 @@
 
 The Text Summarization Tool is a Python-based application that uses Natural Language Processing (NLP) techniques to automatically generate concise summaries from lengthy text documents. It helps users quickly understand the key points of articles by extracting the most important sentences. The tool is simple to use, runs in VS Code, and demonstrates practical application of NLP for efficient text analysis and information reduction.
 
-
+<img width="854" height="502" alt="Image" src="https://github.com/user-attachments/assets/336922ec-0839-4885-a13e-bcfd4ee0b5eb" />
